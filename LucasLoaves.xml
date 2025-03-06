@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="lucas_loaves.css"?>
+<!DOCTYPE LucasLoaves SYSTEM "lucas_loaves.dtd">
+<LucasLoaves>
+    <Brand>
+        <GIF>bread.gif</GIF>
+        <Sound>bread_sound.mp3</Sound>
+    </Brand>
+    <Product>
+        <Name>Sourdough White</Name>
+        <Price>$7.00</Price>
+        <Description>Our standard sourdough</Description>
+    </Product>
+    <Product>
+        <Name>Sourdough Rye</Name>
+        <Price>$8.00</Price>
+        <Description>Sourdough created with 50% rye flour</Description>
+    </Product>
+        <Product>
+        <Name>Sourdough Spelt</Name>
+        <Price>$9.00</Price>
+        <Description>Sourdough created with 100% spelt flour.</Description>
+    </Product>
+    <Product>
+        <Name>Sourdough Seeded</Name>
+        <Price>$9.50</Price>
+        <Description>Sourdough including a mixture of yummy seeds.</Description>
+    </Product>
+</LucasLoaves>

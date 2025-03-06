@@ -1,0 +1,10 @@
+<!ENTITY % currency "$">
+
+<!ELEMENT LucasLoaves (Brand, Product+)>
+<!ELEMENT Brand (GIF, Sound)>
+<!ELEMENT GIF (#PCDATA)>
+<!ELEMENT Sound (#PCDATA)>
+<!ELEMENT Product (Name, Price, Description)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Price (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>

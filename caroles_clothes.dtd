@@ -1,0 +1,10 @@
+<!ENTITY % currency "$">
+
+<!ELEMENT CarolesClothes (Brand, Item+)>
+<!ELEMENT Brand (GIF, Sound)>
+<!ELEMENT GIF (#PCDATA)>
+<!ELEMENT Sound (#PCDATA)>
+<!ELEMENT Item (Name, Price, Description)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Price (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>

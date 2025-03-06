@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="caroles_clothes.css"?>
+<!DOCTYPE CarolesClothes SYSTEM "caroles_clothes.dtd">
+<CarolesClothes>
+    <Brand>
+        <GIF>fabric.gif</GIF>
+        <Sound>fabric_sound.mp3</Sound>
+    </Brand>
+    <Item>
+        <Name>Shift dress</Name>
+        <Price>$45.00</Price>
+        <Description>Simple shift, available in two colours. 100% cotton</Description>
+    </Item>
+    <Item>
+        <Name>Wraparound skirt</Name>
+        <Price>$30.00</Price>
+        <Description>Simple wraparound skirt, available in two colours. 100% cotton</Description>
+    </Item>
+       <Item >
+        <Name>Cardigan</Name>
+        <Price>$70.00</Price>
+        <Description>Winter cardigan, available in two colours. 100% wool.</Description>
+    </Item>
+    <Item>
+        <Name>Dress hat</Name>
+        <Price>$20.00</Price>
+        <Description>Stylish dress hat, available in two colours. 100% linen.</Description>
+    </Item>
+</CarolesClothes>
